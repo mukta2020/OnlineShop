@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ozyARBWPNB/G3qc5tQ9Ogazn9GONvHS4hxpOqx1UTwI=",
+  "Source": "ShopOnline.Api",
+  "BasePath": "_content/ShopOnline.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

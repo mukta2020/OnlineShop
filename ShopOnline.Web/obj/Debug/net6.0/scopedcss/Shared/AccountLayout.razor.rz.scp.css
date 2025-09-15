@@ -1,0 +1,17 @@
+.divider[b-h1pz9mfcl0]:after,
+.divider[b-h1pz9mfcl0]:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+.h-custom[b-h1pz9mfcl0] {
+    height: calc(100% - 73px);
+}
+
+@media (max-width: 450px) {
+    .h-custom[b-h1pz9mfcl0] {
+        height: 100%;
+    }
+}
